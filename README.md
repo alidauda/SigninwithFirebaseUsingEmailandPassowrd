@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+sign with firebase impelemented using firebase auth 
+and signout also impelemented cheers!!!
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
